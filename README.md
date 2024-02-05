@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Goal
+
+The goal of this repo is to mimic the default start app for hydrogen in next.js as a learning exercise for frontend in general
+
 ## Getting Started
 
 First, run the development server:
